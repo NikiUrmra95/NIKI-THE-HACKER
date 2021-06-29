@@ -13,6 +13,8 @@ Then click on install
 then open the app and search on among us then go to the first mod and click on download 
 then wait al while then click on install when its says app not installed that means you haven't turn on among us permissons in settings when it says app installed then you got the mod
 
+# Screenshoot
+![hqdefault](https://user-images.githubusercontent.com/86622134/123781730-93bef900-d8a2-11eb-93b3-163669e575cc.jpg)
 
 
 # MOD CREATED BY PLAITMODS
